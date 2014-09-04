@@ -4,3 +4,5 @@ branch modified
 master2
 branch modified
 branch1 modified
+branch1
+branch2
